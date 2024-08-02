@@ -145,6 +145,7 @@
 <img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/gif/AI%20Search.gif" width="100%" height="100%" />
 
 - AI 모델을 활용하여 사용자 입력에 따라 관련성 높은 검색 결과를 빠르고 정확하게 제공
+- KoBERT 모델을 사용하여 데이터베이스의 기업 정보, 채용 정보 필드 임베딩
 
 ## 🧑‍💻 팀원 구성
 
